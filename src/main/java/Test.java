@@ -10,6 +10,7 @@ public class Test {
 		// changed again by Daisuke Kinose by Eclipse
 		// changed further by Notepad++ and pushed via Eclipse
 		// test
+		//local branch ver 1.1 in working derectry?
 
 	}
 
